@@ -1,0 +1,57 @@
+2024-01-12 14:00:25,940 - log4jcoverfoxInsurance -INFO - launching coverfox
+2024-01-12 14:00:32,804 - log4jcoverfoxInsurance -INFO - Cliking on gender button
+2024-01-12 14:00:36,677 - log4jcoverfoxInsurance -INFO - Cliking on next button
+2024-01-12 14:00:40,900 - log4jcoverfoxInsurance -INFO - Handling age drop down
+2024-01-12 14:00:42,817 - log4jcoverfoxInsurance -INFO - Cliking on next button
+2024-01-12 14:00:45,925 - log4jcoverfoxInsurance -INFO - Entering Pin Code
+2024-01-12 14:00:46,156 - log4jcoverfoxInsurance -INFO - Entering mobile Number
+2024-01-12 14:00:46,337 - log4jcoverfoxInsurance -INFO - Cliking on Continue button
+2024-01-12 14:00:53,455 - log4jcoverfoxInsurance -INFO - Fetching number of results from text
+2024-01-12 14:01:00,518 - log4jcoverfoxInsurance -INFO - Fetching number of results from Banners
+2024-01-12 14:01:01,584 - log4jcoverfoxInsurance -INFO - TC is Passed
+2024-01-12 14:54:38,204 - log4jcoverfoxInsurance -INFO - launching coverfox
+2024-01-12 14:54:59,330 - log4jcoverfoxInsurance -INFO - Cliking on gender button
+2024-01-12 14:55:03,420 - log4jcoverfoxInsurance -INFO - Cliking on next button
+2024-01-12 14:55:07,881 - log4jcoverfoxInsurance -INFO - Handling age drop down
+2024-01-12 14:55:11,719 - log4jcoverfoxInsurance -INFO - Cliking on next button
+2024-01-12 14:55:14,822 - log4jcoverfoxInsurance -INFO - Entering Pin Code
+2024-01-12 14:55:15,013 - log4jcoverfoxInsurance -INFO - Entering mobile Number
+2024-01-12 14:55:15,260 - log4jcoverfoxInsurance -INFO - Cliking on Continue button
+2024-01-12 14:55:22,435 - log4jcoverfoxInsurance -INFO - Fetching number of results from text
+2024-01-12 14:55:29,487 - log4jcoverfoxInsurance -INFO - Fetching number of results from Banners
+2024-01-12 14:55:30,634 - log4jcoverfoxInsurance -INFO - TC is Passed
+2024-01-17 13:31:46,202 - log4jcoverfoxInsurance -INFO - launching coverfox
+2024-01-17 13:32:12,114 - log4jcoverfoxInsurance -INFO - Cliking on gender button
+2024-01-17 13:32:15,954 - log4jcoverfoxInsurance -INFO - Cliking on next button
+2024-01-17 13:32:20,031 - log4jcoverfoxInsurance -INFO - Handling age drop down
+2024-01-17 13:34:50,717 - log4jcoverfoxInsurance -INFO - launching coverfox
+2024-01-17 13:34:58,503 - log4jcoverfoxInsurance -INFO - Cliking on gender button
+2024-01-17 13:35:02,339 - log4jcoverfoxInsurance -INFO - Cliking on next button
+2024-01-17 13:35:07,115 - log4jcoverfoxInsurance -INFO - Handling age drop down
+2024-01-17 13:35:09,304 - log4jcoverfoxInsurance -INFO - Cliking on next button
+2024-01-17 13:35:12,378 - log4jcoverfoxInsurance -INFO - Entering Pin Code
+2024-01-17 13:35:12,672 - log4jcoverfoxInsurance -INFO - Entering mobile Number
+2024-01-17 13:35:12,805 - log4jcoverfoxInsurance -INFO - Cliking on Continue button
+2024-01-17 13:35:19,938 - log4jcoverfoxInsurance -INFO - Fetching number of results from text
+2024-01-17 13:35:26,978 - log4jcoverfoxInsurance -INFO - Fetching number of results from Banners
+2024-01-17 13:35:28,097 - log4jcoverfoxInsurance -INFO - TC is Passed
+2024-01-17 14:10:14,762 - log4jcoverfoxInsurance -INFO - launching coverfox
+2024-01-17 14:10:24,055 - log4jcoverfoxInsurance -INFO - Cliking on gender button
+2024-01-17 14:10:28,020 - log4jcoverfoxInsurance -INFO - Cliking on next button
+2024-01-17 14:10:32,131 - log4jcoverfoxInsurance -INFO - Handling age drop down
+2024-01-17 14:10:32,328 - log4jcoverfoxInsurance -INFO - Cliking on next button
+2024-01-17 14:10:35,431 - log4jcoverfoxInsurance -INFO - Entering Pin Code
+2024-01-17 14:10:35,526 - log4jcoverfoxInsurance -INFO - Entering mobile Number
+2024-01-17 14:10:35,591 - log4jcoverfoxInsurance -INFO - Cliking on Continue button
+2024-01-17 14:10:42,672 - log4jcoverfoxInsurance -INFO - Fetching number of results from text
+2024-01-17 14:11:38,574 - log4jcoverfoxInsurance -INFO - launching coverfox
+2024-01-17 14:11:44,662 - log4jcoverfoxInsurance -INFO - Cliking on gender button
+2024-01-17 14:11:48,647 - log4jcoverfoxInsurance -INFO - Cliking on next button
+2024-01-17 14:11:52,727 - log4jcoverfoxInsurance -INFO - Handling age drop down
+2024-01-17 14:11:52,891 - log4jcoverfoxInsurance -INFO - Cliking on next button
+2024-01-17 14:11:55,954 - log4jcoverfoxInsurance -INFO - Entering Pin Code
+2024-01-17 14:11:56,041 - log4jcoverfoxInsurance -INFO - Entering mobile Number
+2024-01-17 14:11:56,109 - log4jcoverfoxInsurance -INFO - Cliking on Continue button
+2024-01-17 14:12:03,205 - log4jcoverfoxInsurance -INFO - Fetching number of results from text
+2024-01-17 14:12:10,255 - log4jcoverfoxInsurance -INFO - Fetching number of results from Banners
+2024-01-17 14:12:11,294 - log4jcoverfoxInsurance -INFO - TC is Passed

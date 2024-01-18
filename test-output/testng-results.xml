@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[Launching Browser]]>
+    </line>
+    <line>
+      <![CDATA[TC validateTestPlansFromTextAndBanners execution is started]]>
+    </line>
+    <line>
+      <![CDATA[Taking ScreenShot]]>
+    </line>
+    <line>
+      <![CDATA[Saved ScreenShot atC:\Users\HP\OneDrive\Desktop\selenium\MyScreenshots\coverFoxCF_TC555_2024.01.17.14.12.11.png]]>
+    </line>
+    <line>
+      <![CDATA[TC validateTestPlansFromTextAndBanners is completed successfully]]>
+    </line>
+    <line>
+      <![CDATA[Closing Browser]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2024-01-17T14:11:38 IST" name="Default suite" finished-at="2024-01-17T14:12:15 IST" duration-ms="37371">
+    <groups>
+    </groups>
+    <test started-at="2024-01-17T14:11:38 IST" name="Default test" finished-at="2024-01-17T14:12:15 IST" duration-ms="37371">
+      <class name="coverFoxTest.CF_TC555_Validate_Search_results_for_healthCare_policies">
+        <test-method is-config="true" signature="launchBrowser()[pri:0, instance:coverFoxTest.CF_TC555_Validate_Search_results_for_healthCare_policies@2034b64c]" started-at="2024-01-17T14:11:38 IST" name="launchBrowser" finished-at="2024-01-17T14:11:44 IST" duration-ms="6261" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Launching Browser]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method is-config="true" signature="enterMemberDetails()[pri:0, instance:coverFoxTest.CF_TC555_Validate_Search_results_for_healthCare_policies@2034b64c]" started-at="2024-01-17T14:11:44 IST" name="enterMemberDetails" finished-at="2024-01-17T14:11:58 IST" duration-ms="13509" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- enterMemberDetails -->
+        <test-method signature="validateTestPlansFromTextAndBanners()[pri:0, instance:coverFoxTest.CF_TC555_Validate_Search_results_for_healthCare_policies@2034b64c]" started-at="2024-01-17T14:11:58 IST" name="validateTestPlansFromTextAndBanners" finished-at="2024-01-17T14:12:11 IST" duration-ms="13277" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[TC validateTestPlansFromTextAndBanners execution is started]]>
+            </line>
+            <line>
+              <![CDATA[Taking ScreenShot]]>
+            </line>
+            <line>
+              <![CDATA[Saved ScreenShot atC:\Users\HP\OneDrive\Desktop\selenium\MyScreenshots\coverFoxCF_TC555_2024.01.17.14.12.11.png]]>
+            </line>
+            <line>
+              <![CDATA[TC validateTestPlansFromTextAndBanners is completed successfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- validateTestPlansFromTextAndBanners -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:coverFoxTest.CF_TC555_Validate_Search_results_for_healthCare_policies@2034b64c]" started-at="2024-01-17T14:12:11 IST" name="closeBrowser" finished-at="2024-01-17T14:12:15 IST" duration-ms="4255" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Closing Browser]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- coverFoxTest.CF_TC555_Validate_Search_results_for_healthCare_policies -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
